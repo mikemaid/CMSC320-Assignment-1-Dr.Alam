@@ -12,4 +12,4 @@ Answer: Merging preserves the history of the respository, whereas rebasing rewri
 
 Q4: What skills do you hope to improve during this course?
 
-Answer: I hope to improve my data analytical skills by using programming strategies.
+Answer: I hope to improve my data analytical skills by using programming strategies and packages.
