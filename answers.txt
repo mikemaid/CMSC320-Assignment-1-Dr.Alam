@@ -5,3 +5,7 @@ Answer: Easy to track changes and backup to previous project versions if necessa
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to marketing by analyzing the vast amount of customer transaction and purchasing pattern data to personalize the advertising strategy in order to improve their conversion rate.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the history of the respository, whereas rebasing rewrites it.
