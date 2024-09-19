@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Easy to track changes and backup to previous project versions if necessary.
